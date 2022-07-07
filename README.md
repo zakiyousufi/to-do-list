@@ -14,7 +14,7 @@ Is a website that contains a list of works that should done you can add new work
 - webpak.
 
 ### 🖥️LIVE DEMO
-You can use Awesome Books by clicking [here](https://zakiyousufi.github.io/to-do-list/)
+You can use To Do List clicking [here](https://zakiyousufi.github.io/to-do-list/)
 
 ## 📑 Authors
 
@@ -23,8 +23,6 @@ You can use Awesome Books by clicking [here](https://zakiyousufi.github.io/to-do
 - LinkedIn: [Ahmed Zaki Yousufi](https://www.linkedin.com/in/ahmadzaki-yousufi-055214217/)
 
 ## ⚙ Getting Started
-
-**This web page is books site with my List of books title and authors.**
 
 To get a local copy up and running... 
 Follow these 
