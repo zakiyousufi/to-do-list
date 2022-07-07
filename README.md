@@ -31,21 +31,22 @@ Follow these
   ## 📋Setup
 to use the project Awsome Books please follow :
  >Open GitHub and go to my GitHub Profile >>Repositorys
- Repository name: Awsome books.
+ Repository name: to-do-list.
  ** To clone
  >Click “Code” and copy the given URL.
 
- >Open “Git Bash or CMD terminal” After the selecting location
+ >Open “Git Bash or CMD terminal” After the selecting location 
+ ( >Syntax:
+  >>> cd {folder name/ eg: desktop} )
 
  >Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
  >Syntax:
-  >>> cd {folder name/ eg: desktop} 
   >>> git clone {repository URL}
 
 ### 🔌Usage
 
->open your directory Awsome Books/
+>open your directory to-do-list
 to run the file :
 _use vs-code or any IDE  to view line code .
 
